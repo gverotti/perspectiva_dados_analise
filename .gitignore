@@ -1,0 +1,13 @@
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.env
+base_modelagem_v1.csv
+base_modelagem_v1.parquet
+temp_matriz_dados.csv
+temp_matriz_dados.parquet
